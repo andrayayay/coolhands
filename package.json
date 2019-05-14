@@ -1,32 +1,35 @@
 {
   "name": "coolhands",
-  "version": "0.1.0",
-  "private": true,
-  "dependencies": {
-    "antd": "^3.17.0",
-    "react": "^16.8.6",
-    "react-dom": "^16.8.6",
-    "react-scripts": "3.0.0"
-  },
+  "version": "1.0.0",
+  "description": "Online Ordering System",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
   "scripts": {
     "start": "NODE_ENV=production node_modules/react-scripts/bin/react-scripts.js start",
     "build": "react-scripts build",
-    "test": "react-scripts test",
+    "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
   },
-  "eslintConfig": {
-    "extends": "react-app"
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andrayayay/coolhands.git"
   },
-  "browserslist": {
-    "production": [
-      ">0.2%",
-      "not dead",
-      "not op_mini all"
-    ],
-    "development": [
-      "last 1 chrome version",
-      "last 1 firefox version",
-      "last 1 safari version"
-    ]
-  }
+  "keywords": [
+    "Bikes",
+    "and",
+    "Bros"
+  ],
+  "author": "Many Beautiful Faces",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andrayayay/coolhands/issues"
+  },
+  "homepage": "https://github.com/andrayayay/coolhands#readme",
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
 }
