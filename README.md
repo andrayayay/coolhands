@@ -1,68 +1,82 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+### <strong> Coolhands Couriers Online Ordering Web Application</strong>
 
-## Available Scripts
+<!-- <b>Click here to view project:</b>
+- [WTF](https://what-the-fun.herokuapp.com) -->
 
-In the project directory, you can run:
+## Table of Contents
++ [About This Application](#about-this-Application)
++ [Wireframes & Workflows](#wireframes)
++ [Features](#Features)
++ [Technologies](#Technologies)
++ [Team](#Team)
 
-### `npm start`
+## About This Application
 
-Runs the app in the development mode.<br>
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-The page will reload if you make edits.<br>
-You will also see any lint errors in the console.
 
-### `npm test`
+## Motivation
 
-Launches the test runner in the interactive watch mode.<br>
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
+##Features 
 
-Builds the app for production to the `build` folder.<br>
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Wireframe for Ordering a Document Delivery
+![](Images/Wireframe/HomePage.png?raw=true)
+![](Images/Wireframe/HomePage1.png?raw=true)
+![](Images/Wireframe/DeliveryStep2.png?raw=true)
+![](Images/Wireframe/DeliveryStep3.png?raw=true)
+![](Images/Wireframe/DeliveryStep4.png?raw=true)
+![](Images/Wireframe/DeliveryStep5.png?raw=true)
+![](Images/Wireframe/Confirm1.png?raw=true)
+![](Images/Wireframe/success-modal.png?raw=true)
 
-The build is minified and the filenames include the hashes.<br>
-Your app is ready to be deployed!
+##First Wireframe Design
+![](Images/Wireframe/ASwireframe1.png?raw=true)
+![](Images/Wireframe/ASwireframe2.png?raw=true)
+![](Images/Wireframe/ASwireframe3.png?raw=true)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Workflow for Final Objective
+![](Images/Flow/Coolhands-flow1.png?raw=true)
 
-### `npm run eject`
+## Technologies
+<b>Built with</b>
+- [React](https://semantic-ui.com/)
+- [Auth0](https://semantic-ui.com/)
+- [Node](https://nodejs.org/en/)
+- [Bootstrap](https://semantic-ui.com/)
+- [AntDesign](https://nodejs.org/en/)
+- [Express](https://expressjs.com/)
+- [MongoDB](https://www.mysql.com/)
+- [Socket.io](https://www.mysql.com/)
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+<!-- ## Features
+What makes your project stand out? -->
 
-Instead, it will copy all the configuration files and the transitive dependencies (Webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+<!-- ## Code Example
+Show what the library does as concisely as possible, developers should be able to figure out **how** your project solves their problem by looking at the code example. Make sure the API you are showing off is obvious, and that your code is short and concise. -->
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+## Installation
+- Clone Repo
+- Open project in terminal
+- Type 'npm install'
+- Type 'npm start'
+- Open on localhost:3000
 
-## Learn More
+## API Reference
+- [PredictHQ](https://www.predicthq.com/)
+- [Google Geolocation](https://developers.google.com/maps/documentation/geolocation/intro?utm_source=google&utm_medium=cpc&utm_campaign=FY18-Q2-global-demandgen-paidsearchonnetworkhouseads-cs-maps_contactsal_saf&utm_content=text-ad-none-none-DEV_c-CRE_315916117601-ADGP_Hybrid+%7C+AW+SEM+%7C+BKWS+~+Google+Maps+Geolocation+API-KWID_43700039136946123-aud-581578347266:kwd-300650646226-userloc_9028280&utm_term=KW_google%20geolocation%20api-ST_google+geolocation+api&gclid=CIqi--2jteECFbOPxQId7L0IQA)
+- [Map Box](https://www.mapbox.com/)
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+<!-- ## Tests
+Describe and show how to run the tests with code examples. -->
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+<!-- ## How to use?
+If people like your project they’ll want to learn how they can use it. To do so include step by step guide to use your project. -->
 
-### Code Splitting
+## Credits
+- [Andraya Smith](https://github.com/andrayayay)
+- [Brielle Carvalho](https://github.com/BrielleCarvalho)
+- [Matt F.](https://github.com/zomg830)
+- [Maurice Partee](https://github.com/Mpartee123)
+- [Rachel Rodriguez](https://github.com/Rachelrodz33)
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `npm run build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify

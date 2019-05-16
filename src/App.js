@@ -28,35 +28,36 @@ class App extends Component {
 
     return (
       <div>
-        <Navbar fluid>
+        <Navbar fluid 
+          className="Navbar">
           <Navbar.Header>
             <Navbar.Brand>
-              <a href="#">Auth0 - React</a>
+              <a href="#">Coolhands Couriers</a>
             </Navbar.Brand>
-            <Button
+            {/* <Button
               bsStyle="primary"
               className="btn-margin"
               onClick={this.goTo.bind(this, 'home')}
             >
               Home
-            </Button>
+            </Button> */}
             {
               !isAuthenticated() && (
                   <Button
-                    id="qsLoginBtn"
-                    bsStyle="primary"
+                    id="LoginBtn"
+                    bsStyle="info"
                     className="btn-margin"
                     onClick={this.login.bind(this)}
                   >
-                    Log In
+                    Log In/Create an Account
                   </Button>
                 )
             }
             {
               isAuthenticated() && (
                   <Button
-                    id="qsLogoutBtn"
-                    bsStyle="primary"
+                    id="LogoutBtn"
+                    bsStyle="info"
                     className="btn-margin"
                     onClick={this.logout.bind(this)}
                   >
