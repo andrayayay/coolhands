@@ -1,4 +1,4 @@
-### <Coolhands Couriers Online Ordering Web Application
+### Coolhands Couriers Online Ordering Web Application
 
 <!-- <b>Click here to view project:</b>
 - [WTF](https://what-the-fun.herokuapp.com) -->
@@ -14,7 +14,7 @@
 <!-- ## Motivation -->
 
 
-##Features 
+## Wireframes
 ## Wireframe for Ordering a Document Delivery
 ![Landing Page](Images/Wireframe/HomePage.png?raw=true)
 ![Home Page](Images/Wireframe/HomePage1.png?raw=true)
@@ -25,13 +25,22 @@
 ![Order Comfirmation](Images/Wireframe/Confirm1.png?raw=true)
 ![Order Success](Images/Wireframe/success-modal.png?raw=true)
 
-##First Wireframe Design
+
+
+
+## First Wireframe Design
 ![](Images/Wireframe/ASwireframe1.png?raw=true)
 ![](Images/Wireframe/ASwireframe2.png?raw=true)
 ![](Images/Wireframe/ASwireframe3.png?raw=true)
 
+
+
+
 ## Workflow for Final Objective
 ![](Images/Flow/Coolhands-flow1.png?raw=true)
+
+
+
 
 ## Technologies
 <strong>Built with</strong>
@@ -45,8 +54,6 @@
 
 
 <!-- - [Socket.io](https://www.mysql.com/) -->
-
-
 <!-- ## Features
 What makes your project stand out? -->
 
@@ -57,6 +64,8 @@ What makes your project stand out? -->
 - Type 'npm install'
 - Type 'npm start'
 - Open on localhost:3000
+
+
 
 
 ## Credits
