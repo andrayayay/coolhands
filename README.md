@@ -67,7 +67,6 @@ What makes your project stand out? -->
 
 
 
-
 ## Credits
 - [Andraya Smith](https://github.com/andrayayay)
 - [Alfredo Rojas](https://github.com/bcihaveto)
