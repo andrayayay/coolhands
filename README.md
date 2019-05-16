@@ -1,4 +1,4 @@
-### <strong> Coolhands Couriers Online Ordering Web Application</strong>
+### <Coolhands Couriers Online Ordering Web Application
 
 <!-- <b>Click here to view project:</b>
 - [WTF](https://what-the-fun.herokuapp.com) -->
@@ -6,28 +6,24 @@
 ## Table of Contents
 + [About This Application](#about-this-Application)
 + [Wireframes & Workflows](#wireframes)
-<!-- + [Features](#Features) -->
 + [Technologies](#Technologies)
 + [Installations](#Installations)
 + [Credits](#Credits)
 
-## About This Application
-
-
-
-## Motivation
+<!-- ## About This Application -->
+<!-- ## Motivation -->
 
 
 ##Features 
 ## Wireframe for Ordering a Document Delivery
-![](Images/Wireframe/HomePage.png?raw=true)
-![](Images/Wireframe/HomePage1.png?raw=true)
-![](Images/Wireframe/DeliveryStep2.png?raw=true)
-![](Images/Wireframe/DeliveryStep3.png?raw=true)
-![](Images/Wireframe/DeliveryStep4.png?raw=true)
-![](Images/Wireframe/DeliveryStep5.png?raw=true)
-![](Images/Wireframe/Confirm1.png?raw=true)
-![](Images/Wireframe/success-modal.png?raw=true)
+![Landing Page](Images/Wireframe/HomePage.png?raw=true)
+![Home Page](Images/Wireframe/HomePage1.png?raw=true)
+![Time Prompt](Images/Wireframe/DeliveryStep2.png?raw=true)
+![Address Prompt](Images/Wireframe/DeliveryStep3.png?raw=true)
+![Weight Prompt](Images/Wireframe/DeliveryStep4.png?raw=true)
+![Payment Prompt](Images/Wireframe/DeliveryStep5.png?raw=true)
+![Order Comfirmation](Images/Wireframe/Confirm1.png?raw=true)
+![Order Success](Images/Wireframe/success-modal.png?raw=true)
 
 ##First Wireframe Design
 ![](Images/Wireframe/ASwireframe1.png?raw=true)
@@ -38,7 +34,7 @@
 ![](Images/Flow/Coolhands-flow1.png?raw=true)
 
 ## Technologies
-<b>Built with</b>
+<strong>Built with</strong>
 - [React](https://reactjs.org/)
 - [Auth0](https://auth0.com/)
 - [Node](https://nodejs.org/en/)
@@ -46,6 +42,8 @@
 - [Ant Design](https://ant.design/)
 - [Express](https://expressjs.com/)
 - [MongoDB](https://www.mongodb.com/)
+
+
 <!-- - [Socket.io](https://www.mysql.com/) -->
 
 
@@ -62,20 +60,12 @@ What makes your project stand out? -->
 
 
 ## Credits
-Front & Back-End:
 - [Andraya Smith](https://github.com/andrayayay)
-Project Management:
 - [Alfredo Rojas](https://github.com/bcihaveto)
-Back-End:
 - [Charlie Hilton](https://github.com/charlieh1988)
-Back-End:
 - [Kaitlyn McCormick](https://github.com/Redtgrlily)
-Front & Back-End:
 - [Mary Michaels](https://github.com/marybmichaels)
-Front & Back-End:
 - [Michael Meleck](https://github.com/MikeM85)
-Back-End:
 - [Josh Guerra](https://github.com/joshua-guerra21)
-Back-End:
 - [Rachel Rodriguez](https://github.com/Rachelrodz33)
 
