@@ -1,7 +1,7 @@
 ### Coolhands Couriers Online Ordering Web Application
 
-<!-- <b>Click here to view project:</b>
-- [WTF](https://what-the-fun.herokuapp.com) -->
+<b>Click here to view project:</b>
+- [](NEED TO DEPLOY TO HEROKU)
 
 ## Table of Contents
 + [About This Application](#about-this-Application)
@@ -51,6 +51,7 @@
 - [Ant Design](https://ant.design/)
 - [Express](https://expressjs.com/)
 - [MongoDB](https://www.mongodb.com/)
+- [Trello](https://trello.com/b/CUzMipie/coolhands)
 
 
 <!-- - [Socket.io](https://www.mysql.com/) -->
@@ -66,14 +67,14 @@ What makes your project stand out? -->
 - Open on localhost:3000
 
 
-
 ## Credits
 - [Andraya Smith](https://github.com/andrayayay)
-- [Alfredo Rojas](https://github.com/bcihaveto)
-- [Charlie Hilton](https://github.com/charlieh1988)
-- [Kaitlyn McCormick](https://github.com/Redtgrlily)
 - [Mary Michaels](https://github.com/marybmichaels)
 - [Michael Meleck](https://github.com/MikeM85)
 - [Josh Guerra](https://github.com/joshua-guerra21)
 - [Rachel Rodriguez](https://github.com/Rachelrodz33)
+
+<!-- - [Alfredo Rojas](https://github.com/bcihaveto)
+- [Charlie Hilton](https://github.com/charlieh1988) -->
+<!-- - [Kaitlyn McCormick](https://github.com/Redtgrlily) -->
 
